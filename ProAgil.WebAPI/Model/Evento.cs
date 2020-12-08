@@ -14,6 +14,8 @@ namespace ProAgil.WebAPI.Model
 
         public string Lote  { get; set; }
 
+        public string ImagemUrl { get; set; }
+
 
 
 
